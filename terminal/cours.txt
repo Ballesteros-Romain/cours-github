@@ -1,0 +1,1 @@
+echo pour ecrire dans le ficher mais il faut le rediriger vers le ficher
